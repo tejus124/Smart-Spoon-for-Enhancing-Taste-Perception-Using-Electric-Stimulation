@@ -1,0 +1,3 @@
+from tensorflow.keras.models import load_model
+m = load_model('section_b_cv_food/food_model.h5')
+m.summary()    # should print your two-layer CNN

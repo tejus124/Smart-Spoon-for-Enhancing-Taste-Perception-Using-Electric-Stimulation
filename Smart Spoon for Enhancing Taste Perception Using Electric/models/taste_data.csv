@@ -1,0 +1,6 @@
+sweet,salty,spicy,bitter,umami,label
+1,0,0,0,1,Sweet & Umami
+0,1,1,0,0,Salty & Spicy
+0,0,1,0,1,Spicy & Umami
+1,0,0,1,0,Sweet & Bitter
+0,1,0,1,1,Salty & Bitter & Umami
